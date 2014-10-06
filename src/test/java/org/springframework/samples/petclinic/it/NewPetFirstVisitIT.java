@@ -147,7 +147,7 @@ public class NewPetFirstVisitIT {
         return retValue;
     }
 
-    @Test
+//    @Test
     public void testHtmlUnit()
         throws MalformedURLException, IOException {
 
